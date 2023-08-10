@@ -1,16 +1,15 @@
-# text_to_speech_app
+<h1> Talk With AI</h1>
 
-A new Flutter project.
+<h3>About Project</h3>
+<li>
+  Speech-to-text system
+  
+</li>
+<li>
+  Get Responses for AI like ChatGPT
+  
+</li>
 
-## Getting Started
+<h2>Preview</h2>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Talk With AI UI](https://github.com/Farhana007/Talk_with_AI-Flutter-APP-OPENAI/assets/106755038/51ff4513-6cb3-4c18-aa1c-810b17b73f6d)
